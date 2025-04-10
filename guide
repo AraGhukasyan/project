@@ -1,0 +1,21 @@
+the backend of this project is writed in php, so what u need to do in order to launch this project
+
+Download and install XAMPP
+
+Download the project files
+(Usually provided as a .zip or from a repository)
+
+Extract the files from the downloaded archive.
+
+Move the extracted project folder into the htdocs folder inside your XAMPP installation directory.
+(e.g., C:\xampp\htdocs\your-project-folder)
+
+Open XAMPP and start the following services:
+
+Click Start next to Apache
+
+Click Start next to MySQL
+
+Open your browser and go to:
+http://localhost/your-project-folder
+(Replace your-project-folder with the actual name of the folder you saved in htdocs)
